@@ -26,5 +26,10 @@ pip install -r requirements.txt
 5. Then run the Script
 
 ```python
+python scrape.py
+```
+
+6. Result
+```
 Output will be saved as "mazon_products_1111.csv" (Example)
 ```
