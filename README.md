@@ -1,6 +1,8 @@
 # Amazon-scrape
 Simple code using BeautifulSoup and Selenium to Scrape an Amazon Page
 
+_NOTE : Consider Creating a File First, Then open it , right click "Open with Visual Studio" or any IDE of your choice as you May lost the CSV file otherwise_
+
 # Running Script
 
 1. Clone the Repository.
